@@ -1,0 +1,16 @@
+@media screen and (max-width:760px){
+    nav{
+        display: flex;
+        flex-direction: column;
+    }    
+    main{
+        flex-direction: column;
+        margin: 20px 70px 40px 70px;
+    }
+    h1{
+        font-size: 32px;
+    }
+    #ilustracao{
+        display: none;
+    }
+}
